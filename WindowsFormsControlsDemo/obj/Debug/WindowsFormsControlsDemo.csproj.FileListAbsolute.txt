@@ -1,0 +1,10 @@
+C:\Users\2091199\source\repos\WindowsFormsControlsDemo\WindowsFormsControlsDemo\bin\Debug\WindowsFormsControlsDemo.exe.config
+C:\Users\2091199\source\repos\WindowsFormsControlsDemo\WindowsFormsControlsDemo\bin\Debug\WindowsFormsControlsDemo.exe
+C:\Users\2091199\source\repos\WindowsFormsControlsDemo\WindowsFormsControlsDemo\bin\Debug\WindowsFormsControlsDemo.pdb
+C:\Users\2091199\source\repos\WindowsFormsControlsDemo\WindowsFormsControlsDemo\obj\Debug\WindowsFormsControlsDemo.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\WindowsFormsControlsDemo\WindowsFormsControlsDemo\obj\Debug\WindowsFormsControlsDemo.Form1.resources
+C:\Users\2091199\source\repos\WindowsFormsControlsDemo\WindowsFormsControlsDemo\obj\Debug\WindowsFormsControlsDemo.Properties.Resources.resources
+C:\Users\2091199\source\repos\WindowsFormsControlsDemo\WindowsFormsControlsDemo\obj\Debug\WindowsFormsControlsDemo.csproj.GenerateResource.cache
+C:\Users\2091199\source\repos\WindowsFormsControlsDemo\WindowsFormsControlsDemo\obj\Debug\WindowsFormsControlsDemo.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\WindowsFormsControlsDemo\WindowsFormsControlsDemo\obj\Debug\WindowsFormsControlsDemo.exe
+C:\Users\2091199\source\repos\WindowsFormsControlsDemo\WindowsFormsControlsDemo\obj\Debug\WindowsFormsControlsDemo.pdb
